@@ -267,49 +267,15 @@
       "16479191226b25756b": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Facebook_Ad_Wide_Photo_Collage_3_6.png",
+          "image": "shopify:\/\/shop_images\/Modern_Property_and_Real_Estate_Sale_Promo_Facebook_Cover_1.png",
           "alignment": "top",
-          "hero_layout": "full_width",
+          "hero_layout": "fixed_width",
           "hero_size": "medium",
           "text_size": "medium",
           "title": "",
           "text": "",
           "button_label": "",
           "button_link": ""
-        }
-      },
-      "1647925758d1bc5983": {
-        "type": "logo-bar",
-        "blocks": {
-          "1647925758d1bc5983-0": {
-            "type": "logo_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/allure-shopify_160x160_2x_aad9ff4e-dbb3-4bc8-aab7-d0c6318ac43f.png",
-              "link": ""
-            }
-          },
-          "1647925758d1bc5983-1": {
-            "type": "logo_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/good-housekeeping-shopify_160x160_2x_de39c370-caf9-4f67-83e9-7c120626c63e.png",
-              "link": ""
-            }
-          },
-          "1647925758d1bc5983-2": {
-            "type": "logo_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/glamour_160x160_2x_20d6a163-9088-4b74-a35d-3c25523d4a5a.png",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1647925758d1bc5983-0",
-          "1647925758d1bc5983-1",
-          "1647925758d1bc5983-2"
-        ],
-        "settings": {
-          "title": ""
         }
       },
       "16479298990448f70f": {
@@ -373,7 +339,6 @@
     },
     "content_for_index": [
       "16479191226b25756b",
-      "1647925758d1bc5983",
       "1647918630e86f3241",
       "collection",
       "16479298990448f70f"
