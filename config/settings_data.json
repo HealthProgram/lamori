@@ -241,27 +241,34 @@
               "collection": "blue-collection"
             }
           },
-          "1647918630e86f3241-1": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "sparkling"
-            }
-          },
           "1647918630e86f3241-2": {
             "type": "featured_collection",
             "settings": {
               "collection": "black-and-white"
             }
+          },
+          "918c2875-f419-4c7c-8b6e-5468cd12bef6": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "sparkling"
+            }
+          },
+          "e4dbac2d-10bc-48a9-89b3-1da3654b934e": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "frontpage"
+            }
           }
         },
         "block_order": [
           "1647918630e86f3241-0",
-          "1647918630e86f3241-1",
-          "1647918630e86f3241-2"
+          "1647918630e86f3241-2",
+          "918c2875-f419-4c7c-8b6e-5468cd12bef6",
+          "e4dbac2d-10bc-48a9-89b3-1da3654b934e"
         ],
         "settings": {
-          "title": "Lamori Collections",
-          "grid": 3
+          "title": "Collections",
+          "grid": 4
         }
       },
       "16479191226b25756b": {
